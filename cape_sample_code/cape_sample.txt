@@ -1,0 +1,4 @@
+1109.4685983450138 joule / kilogram
+609.3357689458733 joule / kilogram
+150.2246605309572 joule / kilogram
+60.86473667035287 joule / kilogram
